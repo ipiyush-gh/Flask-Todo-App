@@ -25,7 +25,8 @@ This project demonstrates a simple yet effective implementation of a task manage
 
 # Project Folder Structure
 
- ```Flask-Todo-App/
+```bash
+Flask-Todo-App/
 │
 ├── app.py
 ├── templates/
