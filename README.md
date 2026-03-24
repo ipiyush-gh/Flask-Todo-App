@@ -15,13 +15,6 @@ This project is a Flask-based Todo web application that allows users to manage d
 - HTML  
 - Bootstrap  
 
-# Project Folder Structure
-```Flask-Todo-App/
-│
-├── app.py
-├── templates/
-│ └── index.html```
-
 # How to Run
 1. Install Flask: pip install flask  
 2. Run the app: python app.py  
@@ -29,3 +22,11 @@ This project is a Flask-based Todo web application that allows users to manage d
 
 # Conclusion
 This project demonstrates a simple yet effective implementation of a task management web application using Flask.
+
+# Project Folder Structure
+
+ ```Flask-Todo-App/
+│
+├── app.py
+├── templates/
+│ └── index.html```
