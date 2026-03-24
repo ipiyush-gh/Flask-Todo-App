@@ -1,5 +1,3 @@
-# Flask Todo Web Application
-
 # Project Description
 This project is a Flask-based Todo web application that allows users to manage daily tasks efficiently. It includes features like adding, editing, deleting tasks, assigning priorities, and categorizing tasks.
 
@@ -18,11 +16,11 @@ This project is a Flask-based Todo web application that allows users to manage d
 - Bootstrap  
 
 # Project Folder Structure
-Flask-Todo-App/
-│
-├── app.py
-├── templates/
-│ └── index.html
+-Flask-Todo-App/
+-│
+-├── app.py
+-├── templates/
+-│ └── index.html
 
 # How to Run
 1. Install Flask: pip install flask  
