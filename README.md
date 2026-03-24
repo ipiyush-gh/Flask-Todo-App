@@ -30,4 +30,4 @@ Flask-Todo-App/
 │
 ├── app.py
 ├── templates/
-│ └── index.html```
+│ └── index.html
